@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAbri Bargougui</h1>
+<h1 align="center">Hi 👋, I'm Sabri Bargougui</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabri1bargougui&label=Profile%20views&color=0e75b6&style=flat" alt="sabri1bargougui" /> </p>
