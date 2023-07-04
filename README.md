@@ -4,7 +4,7 @@ Hi 👋 My name is Sabri Bargougui
 Full Stack Developer
 --------------------
 
-Web and Mobile Developer with two years of experience. specializing in Reactjs , Angular, Flutter, Android ,Nodejs , MongoDB, Express , Firebase, Dart, WordPress, Spring Boot, Jira, Trello, Linux.
+Highly skilled and motivated Full Stack Java Developer with more than 2 years of experience in designing, developing, and deploying robust web applications. Proficient in Java, Spring Framework, Angular, and various front-end and back-end technologies. Strong problem-solving abilities and a track record of delivering high-quality code on time. Excellent communication and collaboration skills with a passion for continuous learning.
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [sabri1.bargougui@gmail.com](mailto:sabri1.bargougui@gmail.com)
