@@ -9,7 +9,7 @@ Highly skilled and motivated Full Stack Java Developer with more than 2 years of
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [sabri1.bargougui@gmail.com](mailto:sabri1.bargougui@gmail.com)
 * 🧠  I'm learning DevOps
-* 🔭 I’m currently working as **Product Development Supervisor at Tagamuta Valley**
+* 🔭 I’m currently working as **Full Stack Java Developer at Intalio-Everteam-FR**
 
 <a href="https://www.twitter.com/bargougui_sabri" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bargougui_sabri?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
